@@ -1,0 +1,7 @@
+Flask==2.0.1
+schedule==1.1.0
+openai>=0.28.0
+tkinter==0.1.0
+jsonschema==4.0.1
+streamlit>=1.24.0
+python-dotenv>=1.0.0
